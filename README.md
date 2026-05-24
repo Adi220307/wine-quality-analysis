@@ -73,3 +73,5 @@ Helps understand data spread and variation.
 - Alcohol content has a positive impact on wine quality.
 - Some features show weak correlation, indicating independent behavior.
 - Dataset is clean and well-structured.
+
+Made by: Aditya Patil
